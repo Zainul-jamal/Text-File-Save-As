@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #17A288;
+    min-height: 100vh;
+}
+.wrapper{
+    width: 450px;
+    border-radius: 7px;
+    background-color: white;
+    padding: 30px 25px 40px;
+}
+/* .saveBtn{
+    opacity: 0.6;
+    pointer-events: none;
+}
+textarea:valid ~ .saveBtn {
+    opacity: 1;
+    pointer-events: auto;
+} */
